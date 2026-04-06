@@ -1,0 +1,23 @@
+# Large raw data files — do not push to GitHub
+data/raw/
+
+# R session and history
+.RData
+.Rhistory
+.Rapp.history
+
+# RStudio project files
+.Rproj.user/
+*.Rproj
+
+# Rendered Word/PDF outputs (regenerate from Rmd)
+*.docx
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary R files
+*~
+\#*\#
