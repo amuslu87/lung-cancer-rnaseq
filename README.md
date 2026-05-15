@@ -1,6 +1,6 @@
 # Transcriptomic Response to Osimertinib in EGFR-Mutant Lung Cancer
 
-A reproducible bulk RNA-seq analysis characterizing the transcriptional response to osimertinib treatment in NCI-H1975 lung cancer cells, framed in a drug discovery context. Includes differential expression, pathway enrichment, and an interactive Shiny dashboard.
+A reproducible bulk RNA-seq analysis characterizing the transcriptional response to osimertinib treatment in NCI-H1975 lung cancer cells, framed in a drug discovery context. Includes differential expression, pathway enrichment with Shiny app.
 
 ---
 
